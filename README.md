@@ -1,6 +1,4 @@
-# School Fee Management System (Simple Sample)
-
-This is a basic beginner-friendly PHP + MySQL project for XAMPP.
+# School Fee Management System 
 
 ## Folder Structure
 
@@ -21,5 +19,3 @@ This is a basic beginner-friendly PHP + MySQL project for XAMPP.
 
 - Email: `admin@example.com`
 - Password: `admin123`
-
-(Password hash is already inserted in SQL file.)
