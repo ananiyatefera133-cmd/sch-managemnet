@@ -34,9 +34,9 @@ INSERT INTO users (full_name, email, password, role) VALUES
 ('Admin User', 'admin@example.com', 'admin123', 'admin');
 
 INSERT INTO students (student_name, class, parent_phone) VALUES
-('John Doe', 'Grade 8', '1234567890'),
-('Mary Jane', 'Grade 9', '9876543210');
+('Ananiya Tefera', 'Grade 12', '1234567890'),
+('Beimnet Tesfahun', 'Grade 12', '9876543210');
 
 INSERT INTO payments (student_id, amount, payment_date, method, created_by) VALUES
 (1, 1200.00, '2026-03-01', 'cash', 1),
-(2, 1500.00, '2026-03-02', 'bank', 1);
+(2, 1200.00, '2026-03-02', 'bank', 1);
